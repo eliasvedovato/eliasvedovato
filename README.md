@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Elias
 
-<!--
-**eliasvedovato/eliasvedovato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const elias = {
+  pronouns: "he" | "his",
+  code: [HTML, CSS, JavaScript, React, TypeScript],
+  tools: [Tailwind, Bootstrap, Chakra, Sass],
+  back: [Next, Node, Yarn],
+  currently: "open for job opportunities",
+  portfolio: "https://portfolio-six-theta-25.vercel.app/"
+}
 
-Here are some ideas to get you started:
+const interests = [
+  'functional-programming',
+  'linux',
+  'open-source',
+]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const personal = [
+  city = 'Buenos Aires, Argentina'
+  email = 'eliasvedovato "at" gmail.com'
+]
