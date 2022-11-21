@@ -2,7 +2,6 @@
 
 ```javascript
 const elias = {
-  pronouns: 'he' | 'his',
   code: [HTML, CSS, JavaScript, React, Next, TypeScript],
   tools: [Tailwind, Bootstrap, Chakra, Sass],
   back: [Node, Yarn],
