@@ -3,9 +3,9 @@
 ```javascript
 const elias = {
   pronouns: 'he' | 'his',
-  code: [HTML, CSS, JavaScript, React, TypeScript],
+  code: [HTML, CSS, JavaScript, React, Next, TypeScript],
   tools: [Tailwind, Bootstrap, Chakra, Sass],
-  back: [Next, Node, Yarn],
+  back: [Node, Yarn],
   currently: 'open for job opportunities',
   portfolio: 'https://portfolio-six-theta-25.vercel.app/'
 }
