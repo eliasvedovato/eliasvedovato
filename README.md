@@ -1,4 +1,4 @@
-### Hi, I'm Elias
+### Hi, I'm Elias 👋🏻
 
 ```javascript
 const elias = {
