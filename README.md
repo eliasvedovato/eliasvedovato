@@ -4,7 +4,7 @@
 const elias = {
   code: [HTML, CSS, JavaScript, React, Next, TypeScript],
   tools: [Tailwind, Bootstrap, Chakra, Sass],
-  back: [Node, Yarn],
+  back: [Node, Yarn, MongoDB],
   currently: 'open for job opportunities',
   portfolio: 'https://portfolio-six-theta-25.vercel.app/'
 }
@@ -17,5 +17,5 @@ const interests = [
 ]
 
 const personal = {
-  email: 'eliasvedovato "at" gmail.com'
+  email: 'eliasvedovato@gmail.com'
 }
