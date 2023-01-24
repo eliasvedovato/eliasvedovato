@@ -3,8 +3,8 @@
 ```javascript
 const elias = {
   code: [HTML, CSS, JavaScript, React, Next, TypeScript],
-  tools: [Tailwind, Bootstrap, Chakra, Sass],
-  back: [Node, Yarn, MongoDB],
+  tools: [Tailwind, Bootstrap, Chakra, Sass, MUI],
+  back: [Node, Yarn, MongoDB, Redux, Firebase],
   currently: 'open for job opportunities',
   portfolio: 'https://portfolio-six-theta-25.vercel.app/'
 }
