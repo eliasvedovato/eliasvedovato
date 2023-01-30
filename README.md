@@ -13,7 +13,7 @@ const interests = [
   'functional-programming',
   'linux',
   'open-source',
-  'web3'
+  'IA'
 ]
 
 const personal = {
