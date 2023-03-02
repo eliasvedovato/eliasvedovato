@@ -16,6 +16,4 @@ const interests = [
   'IA'
 ]
 
-const personal = {
-  email: 'eliasvedovato@gmail.com'
-}
+const email = 'eliasvedovato@gmail.com'
